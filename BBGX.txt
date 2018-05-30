@@ -1,12 +1,3 @@
 {UPDATE:
 [VERSION:3.1.6:END]
-[CHANGELOG:【逍遥盒子】。【3.1.6更新日志】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://qiking.top/app/xyhz.html:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
-
-【公告】
-{NOTICE:
-[TITLE:【公告】:END]
-[MESSAGE:【动态】→全新版本来袭，首次打开请清除软件数据，不然会出错，适配版主要解决部分机型的出错问题，无问题请下载正式版。【分享】个人新的微信公众号 阿俊的百宝库 每天分享一款实用软件，多多关注一下呗。:END][BUTTON:联系作者:END]?
-[OPENURL:mqqapi://card/show_pslcard?uin=1611855224:END]??????
-[BUTTON1:朕知道了:END]?
-[OPENURL1::END][BUTTON2:进群反馈:END][OPENURL2:726715161:END]
-:END}
+[CHANGELOG:【逍遥盒子】。【3.1.6新日志】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://qiking.top/app/xyhz.html:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
