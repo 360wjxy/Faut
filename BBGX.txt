@@ -1,8 +1,12 @@
-{UPDATE:[VERSION:3.1.5:END]
-【内容】1.修复网络检测问题                                                                                                            2.修复公告与更新功能瘫痪问题【内容】
-[DOWNLOADURL:http://hzgx.qiking.top/xyhz_3.1.2.apk:END]
-[FORCE:TRUE:END]
-[USEVERSIONNAME:FLASE:END]
-:END}
+{UPDATE:
+[VERSION:3.1.5:END]
+[CHANGELOG:【逍遥盒子】。【3.1.5更新】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://t.cn/R3gNkxw:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
 
---]]
+【公告】
+{NOTICE:
+[TITLE:【公告】:END]
+[MESSAGE:【动态】→全新版本来袭，首次打开请清除软件数据，不然会出错，适配版主要解决部分机型的出错问题，无问题请下载正式版。【分享】个人新的微信公众号 阿俊的百宝库 每天分享一款实用软件，多多关注一下呗。:END][BUTTON:联系作者:END] 
+[OPENURL:mqqapi://card/show_pslcard?uin=1611855224:END]      
+[BUTTON1:朕知道了:END] 
+[OPENURL1::END][BUTTON2:进群反馈:END][OPENURL2:726715161:END]
+:END}
