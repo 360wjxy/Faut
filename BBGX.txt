@@ -1,6 +1,6 @@
 {UPDATE:
 [VERSION:3.1.5:END]
-[CHANGELOG:【逍遥盒子】。【3.1.5更新】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://t.cn/R3gNkxw:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
+[CHANGELOG:【逍遥盒子】。【3.1.5更新】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://qiking.top/app/xyhz.html:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
 
 【公告】
 {NOTICE:
