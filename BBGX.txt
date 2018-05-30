@@ -1,5 +1,5 @@
 {UPDATE:[VERSION:3.1.5:END]
-¡¾ÄÚÈÝ¡¿1.ÐÞ¸´ÍøÂç¼ì²âÎÊÌâ                                                                                 2.ÐÞ¸´¹«¸æÓë¸üÐÂ¹¦ÄÜÌ±»¾ÎÊÌâ¡¾ÄÚÈÝ¡¿
+ã€å†…å®¹ã€‘1.ä¿®å¤ç½‘ç»œæ£€æµ‹é—®é¢˜                                                                                                            2.ä¿®å¤å…¬å‘Šä¸Žæ›´æ–°åŠŸèƒ½ç˜«ç—ªé—®é¢˜ã€å†…å®¹ã€‘
 [DOWNLOADURL:http://hzgx.qiking.top/xyhz_3.1.2.apk:END]
 [FORCE:TRUE:END]
 [USEVERSIONNAME:FLASE:END]
