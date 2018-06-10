@@ -1,3 +1,3 @@
 {UPDATE:
-[VERSION:3.1.5:END]
-[CHANGELOG:【3.1.5更新日志】。①修复公告与更新功能服务器瘫痪问题。:END][DOWNLOADURL:http://qiking.top/app/xyhz.html:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
+[VERSION:3.3.3:END]
+[CHANGELOG:【3.3.3更新日志】。3.0新时代改版来袭。1.全新盒子界面。2.侧边栏3.0版。3.新增炫彩主题开关选项。4.极客工具箱全新改版。5.影视功能全新优化。6.首页适配非全面屏。其他若干优化。[新盒子3.0开始全新出发，Let's go]。:END][DOWNLOADURL:http://qiking.top/app/xyhz.html:END][FORCE:FALSE:END][USEVERSIONNAME:TRUE:END]:END}    
